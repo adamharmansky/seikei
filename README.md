@@ -16,7 +16,7 @@ so for example:
 mi tai leimi //I love my wife
 mamimei jo henmin //my father is writing; "creating pictures of words"
 mi ta tatonpin //I'm going to the library
-o ta lon //come here
+o ta tu //come here
 ```
 these words, being more compact, can then substitute many words even toki pona doesn't really need:
 ```

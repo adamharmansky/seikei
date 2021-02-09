@@ -1,23 +1,8 @@
-{-, /ts/, /h/, /j/, /k/, /l/, /m/, /n/, /p/, /s/, /t/, /w/}{/a/, /e/, /i/, /o/, /u/, /ai/, /ei/, /oi/, /an/, /en/, /in/, /on/, /un/}
-
-//these lines are here for me to fin cool sounding words
-tsa tse tsi tso tsu tsai tsei tsoi tsan tsen tsin tson tsun
-ha he hi ho hu hai hei hoi han hen hin hon hun
-ja je ji jo ju jai jei joi jan jen jin jon jun
-ka ke ki ko ku kai kei koi kan ken kin kon kun
-la le li lo lu lai lei loi lan len lin lon lun
-ma me mi mo mu mai mei moi man men min mon mun
-na ne ni no nu nai nei noi nan nen nin non nun
-pa pe pi po pu pai pei poi pan pen pin pon pun
-sa se si so su sai sei soi san sen sin son sun
-ta te ti to tu tai tei toi tan ten tin ton tun
-wa we wi wo wu wai wei woi wan wen win won wun
-
 mi:	me, us
 ti:	you
 hi:	he, she, they, it
 kei:	good
-tsun:	bad
+ke:	bad
 su:	big
 li:	small
 so:	animal
@@ -26,6 +11,7 @@ no:	not, no, none
 lan:	all, everything
 hon:	fight
 wa:	strong
+tsu:	sweet
 san:	person
 ma:	parent, creator
 mei:	man
@@ -51,11 +37,11 @@ son:	sound
 koi:	group
 la:	sleep
 mu:	a lot, much
-ni:	this, that
+ni:	this, that(you know)
 joi:	break
 jen:	warm
 ju:	use, using
-lon:	at, in, here
+tu:	at, in, here
 sa:	the same
 tan:	from
 ta:	move, go, to
@@ -81,10 +67,34 @@ wai:	white, light
 kai:	crazy, weird
 jai:	dirty, disgusting
 moi:	death, dead
-lun:	sex, sexual
+kun:	sex, sexual
 pi:	of (you know)
 wen:	like la in toki pona, except A la B is wen A, B
 ten:	after, then, as (forms comparative), can be also placed in :'wen A ten B'
 hen:	hand
 lin:	line, kinlin for stick
 soi:	body
+len:	clothes
+tsan:	cold
+sun:	art, entertainment, game
+ka:	coming, future, come, event
+ken:	know, be able to, can, ability
+po:	start, open, begin
+tin:	end, finosh, close
+na:	know, knowledge
+wi:	want to, will(n)
+hai:	hole
+wei:	way, path, road
+nen:	hill, nose, button
+ki:	time
+nun:	number
+si:	only, one (used with no in binary, yes this language uses binary because why not)
+le:	circle, sphere
+man:	money
+poi:	box, cube, container
+sai:	sun, bright
+toi:	take, gather, acquire
+kon:	air, essence, spirit, gas
+jan:	feeling, sense, heart
+ha:	surface, horizontal
+
