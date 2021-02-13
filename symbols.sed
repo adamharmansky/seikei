@@ -63,7 +63,7 @@ s/_YELLOW_/je/g
 s/_BRUE_/lai/g
 s/_RED_/loi/g
 s/_BLACK_/pei/g
-s/_WHTE_/wai/g
+s/_WHITE_/wai/g
 s/_STRANGE_/kai/g
 s/_DIRTY_/jai/g
 s/_DEATH_/moi/g
