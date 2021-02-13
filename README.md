@@ -16,18 +16,18 @@ all the one syllable "words" combine into real *words*, which are like putting m
 so `sei` (toki) and `kei` (good) combine into `seikei`
 a sentence looks like this:
 
-(subject/`o``[which is like o in toki pona]`) (verb) <direct object> <prefix + indirect object> <...(other indirect objects)>
+(subject/`o``[which is like o in toki pona]`) (verb) <direct object> <prefix(like "ta" or "tan") + indirect object> <...(more indirect objects)>
 ```
 so for example:
 mi tai leimi //I love my wife
-mamimei jo henmin //my father is writing; "creating pictures of words"
+mameimi wo henmin //my father is writing; "creating pictures of words"
 mi ta tatonpin //I'm going to the library
 o ta tu //come here
 ```
 these words, being more compact, can then substitute many words even toki pona doesn't really need:
 ```
 fish = sote //water animal
-bread = mopanjen //warm plant food
+bread = mopanpiteno //warm plant food
 ```
 and most importantly, "hentai" means "pictures of love" which is like half of the reason why I decided to create this language :)
 
