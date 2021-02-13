@@ -1,8 +1,12 @@
 # seikei
 toki pona but yes
 
+## before we begin
+
+notice the structure of this repository. The dictionary is in the form of a sed script, used by the sed editor. To convert this script into a readable dictionary with more translations and descriptions, use `./apply.sh` (on linux). IF SOMEONE THAT READS THIS USES WINDOWS, I WILL REALLY APPRECIATE IF YOU CONVERT THIS FOR WINDOWS TOO.
+
 okay so all you professional conlangers are gonna hate me for this
-essentially, I took the toki pona dictionary and made every word one syllable, plus I added some new consonants and Dipthtongs.
+essentially, I took the toki pona dictionary and made every word one syllable, plus I added some new consonants and Diphthongs.
 The goal of this project is to create a language that doesn't require `2.58*10^84` syllables per sentence
 
 Okay, so it's a little more complicated than what I said:
